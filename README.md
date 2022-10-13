@@ -6,9 +6,9 @@ Data analyst, software developer
 
 Enjoying a simple coffee in the morning, reading news, reading information content or a podcast is how I keep up-to-date with technology, I love learning because that's how I have greater fluency in my career, collaborate in teams and be participative.
 
-* 🌍  I'm based in Medellín, Colombia
-* ✉️  You can contact me at [d.bricenogalindo@gmail.com](mailto:d.bricenogalindo@gmail.com)
-* 🧠  I'm learning TypeScrip, JavaScrip, Node JS, React, React Native, Angular,Python, MySQL, PhotoShop, Illustrator.
+* 🌍 I'm based in Medellín, Colombia
+* ✉️ You can contact me at [d.bricenogalindo@gmail.com](mailto:d.bricenogalindo@gmail.com)
+* 🧠 I'm learning TypeScrip (JR), JavaScrip (JR), Node JS (JR), React (JR), React Native (JR), Angular (JR), Python (JR), MySQL (JR), PhotoShop (JR), Illustrator (JR).
 
 ### Skills
 
