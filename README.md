@@ -4,11 +4,11 @@ Hi 👋 My name is David Briceño
 Data analyst, software developer
 --------------------------------
 
-Enjoying a simple coffee in the morning, reading news, reading information content or a podcast is how I keep up-to-date with technology, I love learning because that's how I have greater fluency in my career, collaborate in teams and be participative .
+Enjoying a simple coffee in the morning, reading news, reading information content or a podcast is how I keep up-to-date with technology, I love learning because that's how I have greater fluency in my career, collaborate in teams and be participative.
 
 * 🌍  I'm based in Medellín, Colombia
 * ✉️  You can contact me at [d.bricenogalindo@gmail.com](mailto:d.bricenogalindo@gmail.com)
-* 🧠  I'm learning Node JS, React, React Native, Python, PhotoShop
+* 🧠  I'm learning Node JS, React, React Native, Angular,Python, MySQL, PhotoShop, Illustrator.
 
 ### Skills
 
@@ -26,7 +26,6 @@ Enjoying a simple coffee in the morning, reading news, reading information conte
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
