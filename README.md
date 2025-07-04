@@ -8,8 +8,7 @@ Enjoying a simple coffee in the morning, reading news, reading information conte
 
 * 🌍 I'm based in Medellín, Colombia
 * ✉️ You can contact me at [d.bricenogalindo@gmail.com](mailto:d.bricenogalindo@gmail.com)
-* 🧠 I'm learning TypeScrip (JR), JavaScrip (JR), Node JS (JR), React (JR), React Native (JR), Angular (JR), Python (JR), MySQL (JR), PhotoShop (JR), Illustrator (JR).
-
+  
 ### Skills
 
 
