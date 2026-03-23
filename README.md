@@ -7,7 +7,6 @@ Data analyst, software developer
 Enjoying a simple coffee in the morning, reading news, reading information content or a podcast is how I keep up-to-date with technology, I love learning because that's how I have greater fluency in my career, collaborate in teams and be participative.
 
 * 🌍 I'm based in Medellín, Colombia
-* ✉️ You can contact me at [d.bricenogalindo@gmail.com](mailto:d.bricenogalindo@gmail.com)
   
 ### Skills
 
